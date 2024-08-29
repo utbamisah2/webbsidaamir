@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(240, 5, 5);
+    font-size: 1.7rem red;
+}
+
+p {
+    color: blueviolet;
+    font-size: 1.2rem red;
+}
+
+body {
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
